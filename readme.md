@@ -1,0 +1,1 @@
+![Compilation](https://github.com/marqdevx/csgo-sounds/actions/workflows/sourcemod-compile.yml/badge.svg)
